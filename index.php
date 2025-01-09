@@ -18,10 +18,8 @@
         <ul>
           <li><a href="section_a/chapter00/">Introduction</a></li>
           <li><a href="section_a/chapter01/">Chapter 1: Variables,
-              Expressions, and
-              Operators</a></li>
-          <li><a href="section_a/chapter02/">Chapter 2: Control
-              Structures</a>
+              Expressions, and Operators</a></li>
+          <li><a href="section_a/chapter02/">Chapter 2: Control Structures</a>
           </li>
           <li><a href="section_a/chapter03/">Chapter 3: Functions</a></li>
           <li><a href="section_a/chapter04/">Chapter 4: Objects</a></li>

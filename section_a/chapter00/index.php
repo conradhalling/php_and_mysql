@@ -17,9 +17,9 @@
     <main class="center">
       <h4>Code Exercises</h4>
       <ul>
-        <li><a href="test.php">test.php</a></li>
-        <li><a href="echo.php">echo.php</a></li>
-        <li><a href="comment.php">comment.php</a></li>
+        <li><a href="test.php">Test</a></li>
+        <li><a href="echo.php">Echo</a></li>
+        <li><a href="comment.php">Comment</a></li>
       </ul>
     </main>
   </body>
