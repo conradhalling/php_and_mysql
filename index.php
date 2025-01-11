@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP &amp; MySQL (My Code)</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="../style.css">
   </head>
 
   <body>
@@ -22,7 +22,8 @@
           <li><a href="section_a/chapter02/">Chapter 2: Control Structures</a>
           </li>
           <li><a href="section_a/chapter03/">Chapter 3: Functions</a></li>
-          <li><a href="section_a/chapter04/">Chapter 4: Objects</a></li>
+          <li><a href="section_a/chapter04/">Chapter 4: Objects &amp;
+              Classes</a></li>
         </ul>
 
         <h2>Section B: Dynamic Web Pages</h2>

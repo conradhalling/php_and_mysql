@@ -5,14 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Section A Chapter 1</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="../../../style.css">
   </head>
 
   <body>
     <header class="center">
       <h1>PHP & MySQL</h1>
       <h2>Section A: Basic Programming Instructions</h2>
-      <h3>Chapter 1 Variables, Expressions, & Operators</h3>
+      <h3>Chapter 1 Variables, Expressions, &amp; Operators</h3>
     </header>
     <main class="center">
       <h4>Code Exercises</h4>
