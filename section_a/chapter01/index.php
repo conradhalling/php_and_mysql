@@ -26,7 +26,7 @@
         </li>
         <li><a href="echo-shorthand.php">Echo Shorthand</a></li>
         <li><a href="arithmetic-operators.php">Arithmetic Operators</a></li>
-        <li><a href="string-operator.php.php">String Operator</a></li>
+        <li><a href="string-operator.php">String Operator</a></li>
         <li><a href="comparison-operators.php">Comparison Operators</a></li>
         <li><a href="logical-operators.php">Logical Operators</a></li>
         <li><a href="example.php">Example</a></li>
