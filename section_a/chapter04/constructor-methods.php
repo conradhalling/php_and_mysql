@@ -1,5 +1,5 @@
 <?php
-// My editor automatically converted the function arguments to named arguments.
+declare(strict_types=1);
 
 class Account
 {
@@ -27,8 +27,8 @@ class Account
     }
 }
 
-$checking = new Account(43161176, 'Checking', 32.00);
-$savings = new Account(20148896, 'Savings', 756);
+$checking = new Account(number: 43161176, type: 'Checking', balance: 32.00);
+$savings = new Account(number: 20148896, type: 'Savings', balance: 756.00);
 ?>
 
 <?php include 'includes/header.php'; ?>
