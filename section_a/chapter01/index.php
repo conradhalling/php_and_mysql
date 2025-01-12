@@ -10,7 +10,7 @@
 
   <body>
     <header class="center">
-      <h1>PHP & MySQL</h1>
+      <h1><a href="../../index.php"><cite>PHP &amp; MySQL</cite></a></h1>
       <h2>Section A: Basic Programming Instructions</h2>
       <h3>Chapter 1 Variables, Expressions, &amp; Operators</h3>
     </header>
