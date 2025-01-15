@@ -18,10 +18,14 @@
       <h4>Code Exercises</h4>
       <ul>
         <li><a href="objects-and-properties.php">Objects &amp; Properties</a>
-        <li><a href="objects-and-methods.php">Objects &amp; Methods</a>
-        <li><a href="constructor-methods.php">Constructor Methods</a>
-        <li><a href="getters-and-setters.php">Getters and Setters</a>
         </li>
+        <li><a href="objects-and-methods.php">Objects &amp; Methods</a></li>
+        <li><a href="constructor-methods.php">Constructor Methods</a></li>
+        <li><a href="getters-and-setters.php">Getters and Setters</a></li>
+        <li><a href="array-in-object.php">Array in an Object's Property</a></li>
+        <li><a href="object-in-object.php">Object in an Object's Property</a>
+        </li>
+        <li><a href="example.php">Example</a></li>
       </ul>
     </main>
   </body>
